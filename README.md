@@ -8,3 +8,5 @@ Steps to reproduce:
 2. Run `harp server`
 3. Navigate to http://localhost:9000/a.key.with.dots
 4. Note incorrect key in console log
+
+See [blog post for more details](http://www.ethanjoachimeldridge.info/tech-blog/dot-paths-harpjs-0-17-0)
